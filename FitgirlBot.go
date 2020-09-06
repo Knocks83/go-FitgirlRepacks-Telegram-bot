@@ -16,10 +16,10 @@
 package main
 
 import (
-	"FitgirlBot/config"
-	"FitgirlBot/roles"
-	"FitgirlBot/telegram"
 	"fmt"
+	"go-FitgirlRepacks-Telegram-bot/config"
+	"go-FitgirlRepacks-Telegram-bot/roles"
+	"go-FitgirlRepacks-Telegram-bot/telegram"
 	"runtime"
 )
 

@@ -16,8 +16,8 @@
 package telegram
 
 import (
-	"FitgirlBot/fitgirl"
 	"fmt"
+	"go-FitgirlRepacks-Telegram-bot/fitgirl"
 	"strconv"
 	"strings"
 
