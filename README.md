@@ -3,7 +3,8 @@ Telegram bot to search games on the Fitgirl Repacks official website directly fr
 
 ## Dependencies
 - Go compiler
-- [This](https://github.com/go-telegram-bot-api/telegram-bot-api) Go library
+- [This](https://github.com/go-telegram-bot-api/telegram-bot-api) Go library (telegram-bot-api)
+- [This](https://golang.org/x/net/html) Go library (x/net/html)
 
 ## Run
 You have 2 choices:
